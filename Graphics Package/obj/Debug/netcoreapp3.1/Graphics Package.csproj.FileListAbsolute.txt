@@ -1,0 +1,20 @@
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.exe
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.deps.json
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.runtimeconfig.json
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.runtimeconfig.dev.json
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.pdb
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csprojAssemblyReference.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Form1.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Form2.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csproj.GenerateResource.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.AssemblyInfoInputs.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.AssemblyInfo.cs
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csproj.CoreCompileInputs.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.pdb
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.genruntimeconfig.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Form3.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Form4.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Properties.Resources.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Graphics Package\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Form5.resources
